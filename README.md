@@ -65,6 +65,7 @@ streamlit run app.py
 ```
 .
 ├── app.py                # Main Streamlit App
+├── .env                  # environment variable file
 ├── requirements.txt      # Python Dependencies
 ```
 
