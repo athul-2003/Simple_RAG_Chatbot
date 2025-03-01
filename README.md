@@ -47,9 +47,9 @@ cd Simple_RAG_Chatbot
 pip install -r requirements.txt
 ```
 3. **Set Up Environment Variable:**
-Make sure you have your Groq API key set:
+Make sure you have your Groq API key set (refer to the sample .env file given):
 ```bash
-export GROQ_API_KEY='your-api-key-here'
+GROQ_API_KEY='your-api-key-here'
 ```
 4. **Run the App:**
 ```bash
